@@ -1,4 +1,7 @@
-![](https://raw.githubusercontent.com/ReoGentO/ReoGentO/refs/heads/main/banner.jpg "Hellow world")
+![](https://raw.githubusercontent.com/ReoGentO/ReoGentO/refs/heads/main/banner.jpg "Hello world")
 
-# Information
-My name is Kirill, I program in languages such as Java, Python and C#.
+# <p align="center">Information<p>
+<p align="center">My name is Kirill. Im backend developer.<p>
+
+# <p align="center">Mini Stack<p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,cs,cpp&theme=dark"/></p>
